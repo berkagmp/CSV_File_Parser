@@ -1,0 +1,10 @@
+/__pycache__
+/sources
+/sample
+/backup
+test.py
+/log
+/modules/__pycache__
+*.pyc
+config*.py
+*.sh
